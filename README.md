@@ -15,7 +15,7 @@ The project demonstrates advanced web scraping techniques to overcome common cha
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/university-faculty-scrapers.git](https://github.com/YOUR_USERNAME/university-faculty-scrapers.git)
+    git clone [https://github.com/Muhammad-Murtaazaa/university-faculty-scrapers](https://github.com/Muhammad-Murtaazaa/university-faculty-scrapers)
     cd university-faculty-scrapers
     ```
 
