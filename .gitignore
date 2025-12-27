@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data and Images (optional: remove these lines if you WANT to commit the data)
+data/*.csv
+images/*.png
+
+# Virtual environments
+venv/
+env/
+.env
